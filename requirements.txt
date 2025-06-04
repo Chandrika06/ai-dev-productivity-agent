@@ -1,0 +1,7 @@
+langchain
+openai
+flake8
+pytest
+fastapi
+uvicorn
+python-dotenv
